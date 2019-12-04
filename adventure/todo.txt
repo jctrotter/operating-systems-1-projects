@@ -1,0 +1,5 @@
+TODO
+-Fix connections bug in adventure
+-get henry help on mutexes
+-go to TA for intermittent segfault help
+
